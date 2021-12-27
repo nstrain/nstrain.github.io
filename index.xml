@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natan Strain</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on Natan Strain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Work Experience Whirlpool  June 2019 - October 2020  Develop Knowledge of OpenModelica and OMEdit to create simplified models in the pursuit of rapid simulation results. Create extensible models for use in future simulations.   June 2018 - August 2018  Wrote Python scripts to automate the process of sorting, formatting, and filtering physical test data to be used for global refrigerator ice rate testing. Debugged and augmented existing Python scripts that extracted temperature and heat transfer simulation analysis data from ice making models.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>/contact/site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/site/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          You Can Reach Me At:
+ Email  nstrain15@gmail.com nls26@students.calvin.edu (Until I graduate in May)   LinkedIn  
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>My Socials</title>
+      <link>/contact/social/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/social/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Connect With Me
+ Snapchat: straij1 Instagram: @nstrain15 Discord: nstrain#7972 nstrain15@gmail.com  
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
